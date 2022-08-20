@@ -36,8 +36,8 @@ authentication tool, rooting tool, or HTML templates that allow users to build a
 2.	Saves time.
 3.	Organizes and manages resources
 4.	It prevents web attacks
-5.      Popular framework
-6.      Database access 
+5.  Popular framework
+6.  Database access 
 
 
 Laravel uses a dependence manager called “composer”. It identifies all the libraries your application or project depends on and manages them. All dependencies are listed in the source folder composer.json Also “Artisan” is the command-line interface used in Laravel. It contains commands used in building a web app. 
@@ -65,19 +65,19 @@ move to the path where you
 
 ## Xampp offers a suitable environment to test and validate projects using other server services. (MySQL, PHP, Apache, etc.).  
 ### Advantages of using Xampp
-•	It is free and easy to use and easily available for Windows, Linux, and Mac OS.
-•	User friendly
-•	It is an open-source software package that gives an easy installation experience.
-•	It handles various administrative responsibilities including verifying the status and security.
-•	It is basic and lightweight to construct a setup for development, testing, and deployment.
-•	It is time-saving and provides several solutions for managing configuration changes
+1.	It is free and easy to use and easily available for Windows, Linux, and Mac OS.
+2.	User friendly
+3.	It is an open-source software package that gives an easy installation experience.
+4.	It handles various administrative responsibilities including verifying the status and security.
+5.	It is basic and lightweight to construct a setup for development, testing, and deployment.
+6.	It is time-saving and provides several solutions for managing configuration changes
 
 
 
 
-## Visual Studio Code is an effective source code editor that runs on Windows/ desktop, macOS, and Linux. 
-It contains support for JavaScript, TypeScript, and Node.js built-in, as well as a robust ecosystem of extensions 
-for additional languages and runtimes (including C++, C#, Java, Python, PHP, Go, and.NET).
+## Visual Studio Code 
+An effective source code editor that runs on Windows/ desktop, macOS, and Linux. 
+It contains support for JavaScript, TypeScript, and Node.js built-in, as well as a robust ecosystem of extensions for additional languages and runtimes (including C++, C#, Java, Python, PHP, Go, and.NET).
 
 
 
@@ -115,6 +115,7 @@ The web application sends data to a MySQL database that is hosted on Xampp.
 9.	The data is transmitted to our MySQL database.   
 
 
+- lecture by Prof. Dominik Böhler
 
 ## Contributing
 
