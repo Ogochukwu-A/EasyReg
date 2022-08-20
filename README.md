@@ -106,13 +106,15 @@ The web application sends data to a MySQL database that is hosted on Xampp.
  The transmission of data from the web app to our database follows this step.
 1.	Make sure the name of your database corresponds to the database name in the .env file in laravel.
 2.	Open Xampp Control panel and start MySQL and Apache
-3.      Open the folder where the project has been installed using your editor e.g.  VScode to be able to view the project. 
-4.      start the server using the command "php artisan serve" in your terminal.
-5.      Go to the homepage 
+3.  Open the folder where the project has been installed using your editor e.g.  VScode to be able to view the project. 
+4.  Start the server using the command "php artisan serve" in your terminal.
+5.  Go to the homepage 
 6.	Login/ register into the Easy Regulatory system  
-7.      Create an innovation, update, submit a request and delete an innovation
+7.  Create an innovation, update, submit a request and delete an innovation
 8.	Click on save or update.
 9.	The data is transmitted to our MySQL database.   
+
+
 
 
 - lecture by Prof. Dominik Böhler
